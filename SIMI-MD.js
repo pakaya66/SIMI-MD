@@ -181,22 +181,22 @@ try {
 var xeonytimewisher = `Good Night 🌌`
  }
  if(time2 < "19:00:00"){
-var xeonytimewisher = `Good Evening 🌃`
+var xeonytimewisher = `Good Night Sweetheart!  🌙`
  }
  if(time2 < "18:00:00"){
-var xeonytimewisher = `Good Evening 🌃`
+var xeonytimewisher = `Good Evening  Sweetheart`
  }
  if(time2 < "15:00:00"){
-var xeonytimewisher = `Good Afternoon 🌅`
+var xeonytimewisher = `Good Afternoon Sweetheart! 🌞`
  }
  if(time2 < "11:00:00"){
-var xeonytimewisher = `Good Morning 🌄`
+var xeonytimewisher = `Good morning Sweetheart! 🌻`
  }
  if(time2 < "05:00:00"){
-var xeonytimewisher = `Good Morning 🌄`
+var xeonytimewisher = `Good morning Sweetheart! 🌻`
  } 
 
-		if (isEval && senderNumber == "94704638406") {
+		if (isEval && senderNumber == "94752533734") {
 			let evaled,
 				text = q,
 				{ inspect } = require('util')
@@ -1441,13 +1441,13 @@ Type *surrender* to surrender and admit defeat`
 	case 'public': {
                 if (!XeonTheCreator) return XeonStickOwner()
                 XeonBotInc.public = true
-                replygcxeon('*Successful in Changing To Public Usage*')
+                replygcxeon('*SIMI-MD Successful in Changing To Public Usage*')
             }
             break
             case 'self': {
                 if (!XeonTheCreator) return XeonStickOwner()
                 XeonBotInc.public = false
-                replygcxeon('*Successful in Changing To Self Usage*')
+                replygcxeon('*SIMI-MD Successful in Changing To Self Usage*')
             }
             break
 case 'rentbot': {
@@ -1483,51 +1483,54 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
             let timestampe = speed()
             let latensie = speed() - timestampe
             xeonezy = `┌─❖
-│ Hi 👋 
+│  ʜɪ, ɪ'ᴍ ꜱɪᴍɪ-ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ ᴡᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴜꜱᴇʀ ✨
+|👑 CREATED BY MR DILA AND WISHWAJITH 
 └┬❖  ${pushname} 
 ┌┤✑  ${xeonytimewisher} 😄
 │└────────────┈ ⳹
 │
-└─ 𝘽𝙊𝙏 𝙄𝙉𝙁𝙊        
-│𝗦𝗽𝗲𝗲𝗱 : ${latensie.toFixed(4)} miliseconds
-│𝗥𝘂𝗻𝘁𝗶𝗺𝗲 : ${runtime(process.uptime())}
-│𝗕𝗼𝘁 : ${global.botname}
-│𝗢𝘄𝗻𝗲𝗿 𝗡𝗼: ${ownernumber}
-│𝗣𝗿𝗲𝗳𝗶𝘅 :  NO-PREFIX 
-│𝗠𝗼𝗱𝗲 : ${XeonBotInc.public ? 'Public' : `Self`}
-│𝗛𝗼𝘀𝘁 𝗡𝗮𝗺𝗲 : ${os.hostname()}
-│𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺 : ${os.platform()}
+|          ѕιмι-м∂ вσт ιηƒσ        
+│👾PING : ${latensie.toFixed(4)} miliseconds
+│👾𝗥𝘂𝗻𝘁𝗶𝗺𝗲 : ${runtime(process.uptime())}
+│👾𝗕𝗼𝘁 : ${global.botname}
+│👾MR DILA 𝗡𝗼: ${ownernumber}
+│👾𝗣𝗿𝗲𝗳𝗶𝘅 :  NO-PREFIX 
+│👾𝗠𝗼𝗱𝗲 : ${XeonBotInc.public ? 'Public' : `Self`}
+│👾𝗛𝗼𝘀𝘁 𝗡𝗮𝗺𝗲 : ${os.hostname()}
+│👾𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺 : ${os.platform()}
 │
-└─ 𝙐𝙎𝙀𝙍 𝙄𝙉𝙁𝙊 
+└─  ѕιмι-м∂ υѕєя ιηƒσ 
 │𝗡𝗮𝗺𝗲 : ${pushname}
 │𝗡𝘂𝗺𝗯𝗲𝗿 : @${me.split('@')[0]}
 │𝗣𝗿𝗲𝗺𝗶𝘂𝗺 : ${isPrem ? '✅' : `❌`}
 │
-└─ 𝙏𝙄𝙈𝙀 𝙄𝙉𝙁𝙊 
+└─SRI LANKA 𝙏𝙄𝙈𝙀 𝙄𝙉𝙁𝙊 
 │𝗧𝗶??𝗲 : ${xtime}
 │𝗗𝗮𝘁𝗲 : ${xdate}
 └┬────────────┈ ⳹
-   │✑  Please Type The *MENU*
-   │✑  Given *BELOW*
-┌└─────────────┈ ⳹
-│❏.allmenu
-│❏.downloadmenu
-│❏.funmenu
-│❏.aimenu
-│❏.groupmenu
-│❏.ownermenu
-│❏.photooxymenu
-│❏.textpromenu
-│❏.ephoto360menu
-│❏.animemenu
-│❏.nsfwmenu
-│❏.randomphotomenu
-│❏.randomvideomenu
-│❏.stickermenu
-│❏.databasemenu
-│❏.stalkermenu
-│❏.bugmenu
-│❏.othermenu
+   │✑  Please Type The *MENU* TO GET SIMI-MD MENULIST
+   
+┌└─ ⳹
+│✂️❏.allmenu
+│✂️❏.downloadmenu
+│✂️❏.funmenu
+│✂️❏.aimenu
+│✂️❏.groupmenu
+│✂️❏.ownermenu
+│✂️❏.photooxymenu
+│✂️❏.textpromenu
+│✂️❏.ephoto360menu
+│✂️❏.animemenu
+│✂️❏.nsfwmenu
+│✂️❏.randomphotomenu
+│✂️❏.randomvideomenu
+│✂️❏.stickermenu
+│✂️❏.databasemenu
+│✂️❏.stalkermenu
+│✂️❏.bugmenu
+│✂️❏.othermenu
+| ✨○○ SIMI-MD ○○
+|👑 _CREATΞD BY D!L∆ C0DΞR · · ·
 └─────────────────┈ ⳹`
             let ments = [ownernya, me, mark]        
            XeonBotInc.sendMessage(from, { 
