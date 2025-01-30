@@ -2,7 +2,7 @@
 </p>
 <p align="center">
   <a href="https://www.youtube.com/@SIMI-MD">
-    <img alt=Support height="350" src="[(https://telegra.ph/file/b9820c0a4ec86f9750b57.jpg)]"> 
+    <img alt=Support height="350" src="[(https://ibb.co/XfDF5yZG)]"> 
     </p>
     <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=WELCOME+TO+THE+SIMI-MD;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+DILAandWishwajith+;SIMI-MD." alt="Typing SVG" /></a>
