@@ -29,7 +29,7 @@
 <p align="center">
 
 
-  <table border="3" align="center" width="400" height="300"><tr><td><a href="https://ibb.co/PG8zSzf4"><img title="OWNER" src="https://i.ibb.co/fd7GcGPt/IMG-20250130-WA0045.jpg" alt="IMG-20250130-WA0045" border="0" width="210" height="210" /></a></td><td>  <a href="https://ibb.co/tpDDg0Jz"><img src="https://i.ibb.co/k2XXjLSJ/IMG-20250130-WA0047.jpg" alt="IMG-20250130-WA0047" border="0" width="210" height="210" /></a></td></tr> <tr><td> <p align="center"> Dila </p> </td><td><p align="center">Wishwajith</p> </td></tr><tr><td colspan="2"><p align="center">🌸● ┈────⚙️___Developers___⚙️────┈ ●🌸</p></td></tr></table>
+  <table border="3" align="center" width="400" height="310"><tr><td><a href="https://ibb.co/PG8zSzf4"><img title="OWNER" src="https://i.ibb.co/fd7GcGPt/IMG-20250130-WA0045.jpg" alt="IMG-20250130-WA0045" border="0" width="220" height="210" /></a></td><td>  <a href="https://ibb.co/tpDDg0Jz"><img src="https://i.ibb.co/k2XXjLSJ/IMG-20250130-WA0047.jpg" alt="IMG-20250130-WA0047" border="0" width="210" height="210" /></a></td></tr> <tr><td> <p align="center"> Dila </p> </td><td><p align="center">Wishwajith</p> </td></tr><tr><td colspan="2"><p align="center">🌸● ┈────⚙️___Developers___⚙️────┈ ●🌸</p></td></tr></table>
 <p align="center"> 
     <a aria-label="FOLLOW MR DILA " href="L" target="_blank">
   
