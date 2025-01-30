@@ -29,7 +29,7 @@
 <p align="center">
 
 
-  <table border="1" width="400" height="400"><tr><td><a href="https://ibb.co/PG8zSzf4"><img title="OWNER" src="https://i.ibb.co/fd7GcGPt/IMG-20250130-WA0045.jpg" alt="IMG-20250130-WA0045" border="0" width="210" height="210" /></a></td><td>  <a href="https://ibb.co/tpDDg0Jz"><img src="https://i.ibb.co/k2XXjLSJ/IMG-20250130-WA0047.jpg" alt="IMG-20250130-WA0047" border="0" width="210" height="210" /></a></td></tr> <tr><td>Dila</td><td>Wishwajith </td></tr></table>
+  <table border="1" width="400" height="300"><tr><td><a href="https://ibb.co/PG8zSzf4"><img title="OWNER" src="https://i.ibb.co/fd7GcGPt/IMG-20250130-WA0045.jpg" alt="IMG-20250130-WA0045" border="0" width="210" height="210" /></a></td><td>  <a href="https://ibb.co/tpDDg0Jz"><img src="https://i.ibb.co/k2XXjLSJ/IMG-20250130-WA0047.jpg" alt="IMG-20250130-WA0047" border="0" width="210" height="210" /></a></td></tr> <tr><td>Dila</td><td>Wishwajith </td></tr></table>
 <p align="center"> 
     <a aria-label="FOLLOW MR DILA " href="L" target="_blank">
   
