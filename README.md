@@ -1,5 +1,5 @@
 <h1> <p align="center"> SIMI-MD </h1></p>
-<p align="center"> <marquee>❄️__✨️ʜɪ, ɪ'ᴍ ꜱɪᴍɪ-ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ ᴡᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴜꜱᴇʀ ✨__❄️</marquee>
+<p align="center"> <marquee>❄️__✨️ʜɪ, ɪ'ᴍ ꜱɪᴍɪ-ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ ᴡᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ✨__❄️</marquee>
   <a href="https://ibb.co/vvLZykKg"><img src="https://i.ibb.co/VpM2nTPr/seven.jpg" alt="seven" border="0" /></a>
     
     
