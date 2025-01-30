@@ -5,7 +5,7 @@
     <img alt=Support height="350" src="[(https://ibb.co/XfDF5yZG)]"> 
     </p>
     <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=WELCOME+TO+THE+SIMI-MD;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+DILA+&+;Wishwajith+;SIMI-MD." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=WELCOME+TO+THE+SIMI-MD;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+DILA+and+;Wishwajith+;SIMI-MD." alt="Typing SVG" /></a>
   </p>
 
 <p align="center">
