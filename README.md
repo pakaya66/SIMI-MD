@@ -1,11 +1,11 @@
-<h1> <align="center"> SIMI-MD </h1>
+<h1> <p align="center"> SIMI-MD </h1>
 </p>
 <p align="center">
   <a href="https://ibb.co/XfDF5yZG"><img src="https://i.ibb.co/zWFP28ht/seven.jpg" alt="seven" border="0" /></a>
 
-    </p>
-    <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=WELCOME+TO+THE+SIMI-MD;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+DILA+and+;Wishwajith...!+;SIMI-MD." alt="Typing SVG" /></a>
+    
+    
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=WELCOME+TO+THE+SIMI-MD;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+DILA+and+;Wishwajith...!+;SIMI-MD." alt="Typing SVG" /></a>
   </p>
 
 <p align="center">
