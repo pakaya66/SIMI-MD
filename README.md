@@ -1,4 +1,4 @@
-<h1 align="center"> SIMI-MD </h1>
+<h1> align="center"> SIMI-MD </h1>
 </p>
 <p align="center">
   <a href="https://ibb.co/XfDF5yZG"><img src="https://i.ibb.co/zWFP28ht/seven.jpg" alt="seven" border="0" /></a>
