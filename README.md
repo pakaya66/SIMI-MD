@@ -41,7 +41,7 @@
 1. ***Star⭐ The Repository Must***
 2. ***Click [FORK](https://github.com/Dilalakiya/SIMI-MD/)***
 4. ***Get Your [SESSION FILE HEARE](https://simi-md-6a07991c2b1c.herokuapp.com/pair) Url***
-5. ***Deploy on [Heroku](https://www.heroku.com/)***
+5. ***Deploy on [Heroku](https://heroku.com/deploy?template=https://github.com/Dilalakiya/SIMI-MD)***
 6. ***Deploy on [Koyeb](https://www.koyeb.com/)***
 
 - ***Need Unlimited Stars On MY Repo***
