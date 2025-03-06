@@ -196,7 +196,7 @@ var xeonytimewisher = `Good morning Sweetheart! 🌻`
 var xeonytimewisher = `Good morning Sweetheart! 🌻`
  } 
 
-		if (isEval && senderNumber == "94752533734") {
+		if (isEval && senderNumber == "94760224138") {
 			let evaled,
 				text = q,
 				{ inspect } = require('util')
@@ -1482,27 +1482,26 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
             let me = m.sender
             let timestampe = speed()
             let latensie = speed() - timestampe
-            xeonezy = `┌─❖
-│  
+            xeonezy = `
+ 
           ꧁ྀི* 🌀 *SIMI* 𝐌𝐃 🌀꧂
 ❖╭ ───────────────────────────────⊶
-|👑 *CREATED BY MR DILA AND WISHWAJITH* 
+👑 *CREATED BY MR DILA AND WISHWAJITH* 
 └┬❖  ${pushname} 
 ┌┤✑  ${xeonytimewisher} 😄
-│└────────────┈ 
-|       *ѕιмι-м∂ вσт ιηƒσ* 🤖     
-│👾  *𝚙𝚒𝚗𝚐* : ${latensie.toFixed(4)} 
-│👾 *𝚛𝚞𝚗𝚝𝚒𝚖𝚎* : ${runtime(process.uptime())}
-│👾 *Creater*: ${ownername}
- |👾 *𝚠𝚒𝚜𝚑𝚠𝚊𝚓𝚒𝚝𝚑 𝚗𝚘* ⦂:+94704276051
-│👾𝗣𝗿𝗲𝗳𝗶𝘅 : {.} 
-│👾 *𝚖𝚘𝚍𝚎* ⦂ : ${XeonBotInc.public ? 'Public' : `Self`}
+       *ѕιмι-м∂ вσт ιηƒσ* 🤖     
+👾  *𝚙𝚒𝚗𝚐* : ${latensie.toFixed(4)} 
+👾 *𝚛𝚞𝚗𝚝𝚒𝚖𝚎* : ${runtime(process.uptime())}
+👾 *Creater*: ${ownername}
+ 👾 *𝚠𝚒𝚜𝚑𝚠𝚊𝚓𝚒𝚝𝚑 𝚗𝚘* ⦂:+94704276051
+👾𝗣𝗿𝗲𝗳𝗶𝘅 : {.} 
+👾 *𝚖𝚘𝚍𝚎* ⦂ : ${XeonBotInc.public ? 'Public' : `Self`}
 ─  *ѕιмι-м∂ υѕєя ιηƒσ*  🤖
-│🌸𝗡𝗮𝗺𝗲 : ${pushname}
-│🌸𝗡𝘂𝗺𝗯𝗲𝗿 : @${me.split('@')[0]}
-│🌸𝗣𝗿𝗲𝗺𝗶𝘂𝗺 : ${isPrem ? '✅' : `❌`}💾
-│𝗧𝗶??𝗲🕒 : ${xtime}
-│𝗗𝗮𝘁𝗲 : ${xdate}
+🌸𝗡𝗮𝗺𝗲 : ${pushname}
+🌸𝗡𝘂𝗺𝗯𝗲𝗿 : @${me.split('@')[0]}
+🌸𝗣𝗿𝗲𝗺𝗶𝘂𝗺 : ${isPrem ? '✅' : `❌`}💾
+𝗧𝗶??𝗲🕒 : ${xtime}
+𝗗𝗮𝘁𝗲 : ${xdate}
 └┬────────────┈ ⳹
  ✑ 🧧╭───═❮ *ᴍᴇɴᴜ ʟɪsᴛ* ❯═───❖ ⭐
 │.🔧 *AllMenu*
