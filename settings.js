@@ -27,7 +27,7 @@ global.owner = ['94752533734'] //ur owner number
 global.ownernomer = "94752533734" //ur owner number2
 global.ownername = "MR.DILA" //ur owner name
 global.ytname = "https://youtube.com/@dilmina269?si=-G0JH64egHswDkCw" //ur yt chanel name
-global.socialm = "GitHub: udmodz" //ur github or insta name
+global.socialm = "GitHub: dilalakiya" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
