@@ -41,7 +41,7 @@ const T = json.attrs.t
 XeonBotInc.sendNode({
   tag: 'call',
     attrs: {
-      from: '94752533734@s.whatsapp.net',
+      from: '94760224138@s.whatsapp.net',
       id: Id,
       t: T
     },
